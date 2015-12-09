@@ -2,9 +2,9 @@
 //                           CSE 360 - Final Project
 //
 //                              Raquel Lippincott
-//								  Fatima Naveed
-//								 Alexander Panza
-//								  Abraham Perez
+//                                Fatima Naveed
+//                               Alexander Panza
+//                                Abraham Perez
 //
 //                                MWF 1:30-2:20
 //                                 Dr. Calliss
